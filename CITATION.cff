@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "causal-mi-eeg-snn: code for causal motor imagery EEG decoding with spiking neural networks"
+type: software
+authors:
+  - family-names: Dedigamage
+    given-names: Praveen
+    orcid: "https://orcid.org/0000-0002-5576-0520"
+repository-code: "https://github.com/praveen-dedigamage/causal-mi-eeg-snn"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "An Energy-Efficient Machine Learning Pipeline for Causal Motor Imagery EEG Decoding with Spiking Neural Networks"
+  authors:
+    - family-names: Dedigamage
+      given-names: Praveen
+      orcid: "https://orcid.org/0000-0002-5576-0520"
+    - family-names: Linne
+      given-names: Marja-Leena
+    - family-names: Mäki-Marttunen
+      given-names: Tuomo
+  collection-title: "Complex Networks & Their Applications XV"
+  collection-type: proceedings
+  conference:
+    name: "15th International Conference on Complex Networks and Their Applications (COMPLEX NETWORKS 2026)"
+    city: Granada
+    country: ES
+    date-start: "2026-12-02"
+    date-end: "2026-12-04"
+  publisher:
+    name: Springer
+  year: 2026

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Outputs re-created by the scripts (fold artifacts can be hundreds of MB)
+Results*/
+logs/
+figures/
+
+# OS
+.DS_Store
+Thumbs.db

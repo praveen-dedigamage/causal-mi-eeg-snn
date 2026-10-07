@@ -2,7 +2,7 @@
 
 Code and evidence for the paper
 
-> Praveen Dedigamage, Marja-Leena Linne and Tuomo Mäki-Marttunen.
+> Ruchira Dedigamage, Marja-Leena Linne and Tuomo Mäki-Marttunen.
 > **An Energy-Efficient Machine Learning Pipeline for Causal Motor Imagery EEG
 > Decoding with Spiking Neural Networks.** In *Complex Networks & Their
 > Applications XV* (COMPLEX NETWORKS 2026), Studies in Computational
@@ -173,7 +173,7 @@ information.
 
 ```bibtex
 @inproceedings{dedigamage2026energy,
-  author    = {Dedigamage, Praveen and Linne, Marja-Leena and M{\"a}ki-Marttunen, Tuomo},
+  author    = {Dedigamage, Ruchira and Linne, Marja-Leena and M{\"a}ki-Marttunen, Tuomo},
   title     = {An Energy-Efficient Machine Learning Pipeline for Causal Motor
                Imagery {EEG} Decoding with Spiking Neural Networks},
   booktitle = {Complex Networks \& Their Applications XV},

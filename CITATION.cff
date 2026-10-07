@@ -4,7 +4,7 @@ title: "causal-mi-eeg-snn: code for causal motor imagery EEG decoding with spiki
 type: software
 authors:
   - family-names: Dedigamage
-    given-names: Praveen
+    given-names: Ruchira
     orcid: "https://orcid.org/0000-0002-5576-0520"
 repository-code: "https://github.com/praveen-dedigamage/causal-mi-eeg-snn"
 license: MIT
@@ -13,7 +13,7 @@ preferred-citation:
   title: "An Energy-Efficient Machine Learning Pipeline for Causal Motor Imagery EEG Decoding with Spiking Neural Networks"
   authors:
     - family-names: Dedigamage
-      given-names: Praveen
+      given-names: Ruchira
       orcid: "https://orcid.org/0000-0002-5576-0520"
     - family-names: Linne
       given-names: Marja-Leena
